@@ -1,6 +1,6 @@
 # The Lost Light Experience!
 
-! [images/window_icon .png]
+![image](https://user-images.githubusercontent.com/95038144/143496460-500aae28-4011-42f2-83f3-35b7bd93d2e2.png)
 
 Will you transform the way into their sparks?
 
