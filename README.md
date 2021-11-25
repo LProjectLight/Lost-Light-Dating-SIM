@@ -1,5 +1,7 @@
 # The Lost Light Experience!
 
+! [images/window_icon .png]
+
 Will you transform the way into their sparks?
 
 The Lost Light is a IDW comic made by James Roberts. Which follows several members of the Lost Light. This Dating Sim will follow 8 Members and their way to date you! The simulator follows the main character a femme Liason aboard the Lost Light, who she has to earn the sparks of 1 of the 8 elgiable characters aboard the lost light! The range of dating candidates are as followed...
